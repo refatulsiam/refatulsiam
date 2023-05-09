@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
 
-![github_cover_banner]([https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif](https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif))
+![github_cover_banner](https://img.freepik.com/free-vector/web-development-banner-computer-with-window-computer-with-browser-window_80328-118.jpg?w=2000)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
@@ -104,7 +104,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+![stats_banner](https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
